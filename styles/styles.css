@@ -61,7 +61,7 @@ i.button {
   color: white;
 }
 
-button {
+.button {
   background-color: #1b447f;
   border: 2px solid #1b447f;
   font-size: 17px;
